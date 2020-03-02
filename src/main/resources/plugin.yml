@@ -1,0 +1,8 @@
+name: SleepyTime
+version: ${project.version}
+main: party.thenoah.sleepytime.SleepyTime
+api-version: 1.13
+prefix: SleepyTime
+authors: [Noah_Shanaberger]
+description: Sleep tools for Spigot servers.
+website: 32bites.party
